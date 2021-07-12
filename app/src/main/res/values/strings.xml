@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ResourcesScrollViewWe</string>
+    <string name="enter_our_name">Enter our name</string>
+    <string name="enter_your_id">Enter your id</string>
+    <string name="enter_your_dob">Enter your DOB</string>
+    <string name="enter_your_blood_group">Enter your blood group</string>
+    <string name="enter_your_state">Enter your state</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="eter_your_state">Eter your state</string>
+    <string name="enter_your_district">Enter your district</string>
+    <string name="enter_your_address">Enter your address</string>
+</resources>
